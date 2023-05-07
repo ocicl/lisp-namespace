@@ -1,0 +1,9 @@
+* lisp-namespace
+
+No more discussion on lisp-1 vs lisp-2. THIS IS LISP-N.
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/guicho271828/lisp-namespace.git |
+| commit  | 699fccb                                                |
+| systems | lisp-namespace                                        |
+|---------+--------------------------------------------------------|
